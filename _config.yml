@@ -1,10 +1,10 @@
-baseurl: /differentsquares
+baseurl: /differentsquares-test
 permalink: pretty
 markdown: rdiscount
 prose:
   rooturl: '_posts'
-  siteurl: 'http://differentsquares.github.io/differentsquares/'
-  relativeLinks: 'http://differentsquares.github.io/differentsquares/links.jsonp'
+  siteurl: 'https://differentsquares.github.io/differentsquares-test/'
+  relativeLinks: 'https://differentsquares.github.io/differentsquares-test/links.jsonp'
   media: 'media'
   metadata:
     _posts:
